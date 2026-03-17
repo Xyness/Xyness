@@ -131,6 +131,7 @@ class Xyness:
 
 <div align="center">
 
+[![Website](https://img.shields.io/badge/Website-000?style=for-the-badge&logo=googlechrome&logoColor=00FF41)](https://xyness.github.io/)
 [![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=00FF41)](mailto:xyness@icloud.com)
 
 </div>
