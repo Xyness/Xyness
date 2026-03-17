@@ -84,12 +84,12 @@ class Xyness:
     "link": "https://github.com/Xyness/Archer"
   },
   {
-    "name": "🔷 CryptoSentinel",
-    "description": "CryptoSentinel is a Big Data platform that analyzes crypto data in real time to automatically detect suspicious behavior using unsupervised machine learning.",
+    "name": "🔷 Sentinel",
+    "description": "Sentinel is a Big Data platform that analyzes crypto data in real time to automatically detect suspicious behavior using unsupervised machine learning.",
     "stack": ["Python", "Java", "Apache Spark", "Kafka", "FastAPI", "Streamlit", "Scikit-learn", "Pandas", "NumPy",
   "Plotly", "Parquet", "Maven", "JUnit 5", "Docker"],
     "status": "active",
-    "link": "https://github.com/Xyness/CryptoSentinel"
+    "link": "https://github.com/Xyness/Sentinel"
   },
   {
     "name": "🔷 PaperChat",
