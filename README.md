@@ -92,6 +92,14 @@ class Xyness:
     "link": "https://github.com/Xyness/Sentinel"
   },
   {
+    "name": "🔷 AlphaWatch",
+    "description": "AI-powered autonomous financial market intelligence agent.",
+    "stack": "stack": ["Next.js", "React", "TypeScript", "Tailwind CSS", "Python", "FastAPI", "SQLAlchemy", "PostgreSQL",
+  "LangGraph", "LangChain", "OpenAI", "Tavily", "APScheduler", "Recharts", "Docker"],
+    "status": "active",
+    "link": "https://github.com/Xyness/AlphaWatch"
+  },
+  {
     "name": "🔷 PaperChat",
     "description": "PaperChat is a RAG-based chatbot that lets you ask questions and get answers from PDF documents using semantic search and LLMs.",
     "stack": ["JavaScript", "Node.js", "SQL"],
