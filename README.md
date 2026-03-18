@@ -108,6 +108,13 @@ class Xyness:
     "link": "https://github.com/Xyness/Phantom"
   },
   {
+    "name": "🔷 GitPulse",
+    "description": "Interactive GitHub activity visualizer with constellation graphs, contribution heatmaps, language timelines, GitHub Wrapped, compare mode, and embeddable widgets.",
+    "stack": ["TypeScript", "Next.js", "Tailwind CSS", "shadcn/ui", "D3.js", "Framer Motion", "GitHub GraphQL API", "Vercel"],
+    "status": "active",
+    "link": "https://github.com/Xyness/GitPulse"
+  },
+  {
     "name": "🔷 PaperChat",
     "description": "PaperChat is a RAG-based chatbot that lets you ask questions and get answers from PDF documents using semantic search and LLMs.",
     "stack": ["JavaScript", "Node.js", "SQL"],
