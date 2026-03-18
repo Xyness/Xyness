@@ -74,61 +74,48 @@ class Xyness:
 
 ## `> cat projects.json`
 
-<div align="center">
-<table>
-<tr>
-<td width="50%" align="center">
-<br>
-<h3><a href="https://github.com/Xyness/Archer">Archer</a></h3>
-<p>Real-time face recognition with sci-fi HUD overlay</p>
-<p>
-<code>Python</code> · <code>FastAPI</code> · <code>OpenCV</code> · <code>ONNX</code> · <code>SQLite</code> · <code>JS</code>
-</p>
-<br>
-</td>
-<td width="50%" align="center">
-<br>
-<h3><a href="https://github.com/Xyness/Sentinel">Sentinel</a></h3>
-<p>Big Data crypto anomaly detection with unsupervised ML</p>
-<p>
-<code>Python</code> · <code>Java</code> · <code>Spark</code> · <code>Kafka</code> · <code>Docker</code> · <code>Scikit-learn</code>
-</p>
-<br>
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-<br>
-<h3><a href="https://github.com/Xyness/AlphaWatch">AlphaWatch</a></h3>
-<p>AI-powered financial market intelligence agent</p>
-<p>
-<code>Next.js</code> · <code>TypeScript</code> · <code>Python</code> · <code>FastAPI</code> · <code>PostgreSQL</code> · <code>LangChain</code>
-</p>
-<br>
-</td>
-<td width="50%" align="center">
-<br>
-<h3><a href="https://github.com/Xyness/Phantom">Phantom</a></h3>
-<p>Security recon & attack surface analysis framework</p>
-<p>
-<code>Rust</code> · <code>Python</code> · <code>Next.js</code> · <code>FastAPI</code> · <code>PostgreSQL</code> · <code>Docker</code>
-</p>
-<br>
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-<br>
-<h3><a href="https://github.com/Xyness/PaperChat">PaperChat</a></h3>
-<p>RAG-based chatbot — ask questions & get answers from PDFs</p>
-<p>
-<code>JavaScript</code> · <code>Node.js</code> · <code>SQL</code>
-</p>
-<br>
-</td>
-</tr>
-</table>
-</div>
+```json
+[
+  {
+    "name": "🔷 Archer",
+    "description": "Real-time face recognition system with a sci-fi HUD overlay. Built with FastAPI, InsightFace (ArcFace), and vanilla JavaScript.",
+    "stack": ["Python", "FastAPI", "InsightFace", "ONNX Runtime", "OpenCV", "SQLite", "JavaScript", "HTML", "CSS"],
+    "status": "active",
+    "link": "https://github.com/Xyness/Archer"
+  },
+  {
+    "name": "🔷 Sentinel",
+    "description": "Sentinel is a Big Data platform that analyzes crypto data in real time to automatically detect suspicious behavior using unsupervised machine learning.",
+    "stack": ["Python", "Java", "Apache Spark", "Kafka", "FastAPI", "Streamlit", "Scikit-learn", "Pandas", "NumPy",
+  "Plotly", "Parquet", "Maven", "JUnit 5", "Docker"],
+    "status": "active",
+    "link": "https://github.com/Xyness/Sentinel"
+  },
+  {
+    "name": "🔷 AlphaWatch",
+    "description": "AI-powered autonomous financial market intelligence agent.",
+    "stack": ["Next.js", "React", "TypeScript", "Tailwind CSS", "Python", "FastAPI", "SQLAlchemy", "PostgreSQL",
+  "LangGraph", "LangChain", "OpenAI", "Tavily", "APScheduler", "Recharts", "Docker"],
+    "status": "active",
+    "link": "https://github.com/Xyness/AlphaWatch"
+  },
+  {
+    "name": "🔷 Phantom",
+    "description": "A security reconnaissance and attack surface analysis framework combining a Rust async port scanner, Python recon modules, FastAPI backend, and Next.js dashboard.",
+    "stack": ["Rust", "Python", "TypeScript", "FastAPI", "Next.js", "Tailwind CSS", "Recharts", "PostgreSQL",
+  "SQLAlchemy", "Docker", "Tokio", "Pydantic"],
+    "status": "active",
+    "link": "https://github.com/Xyness/Phantom"
+  },
+  {
+    "name": "🔷 PaperChat",
+    "description": "PaperChat is a RAG-based chatbot that lets you ask questions and get answers from PDF documents using semantic search and LLMs.",
+    "stack": ["JavaScript", "Node.js", "SQL"],
+    "status": "maintained",
+    "link": "https://github.com/Xyness/PaperChat"
+  }
+]
+```
 
 > 📂 **[Browse all repositories →](https://github.com/Xyness?tab=repositories)**
 
