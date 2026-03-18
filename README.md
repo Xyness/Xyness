@@ -74,48 +74,103 @@ class Xyness:
 
 ## `> cat projects.json`
 
-```json
-[
-  {
-    "name": "🔷 Archer",
-    "description": "Real-time face recognition system with a sci-fi HUD overlay. Built with FastAPI, InsightFace (ArcFace), and vanilla JavaScript.",
-    "stack": ["Python", "FastAPI", "InsightFace", "ONNX Runtime", "OpenCV", "SQLite", "JavaScript", "HTML", "CSS"],
-    "status": "active",
-    "link": "https://github.com/Xyness/Archer"
-  },
-  {
-    "name": "🔷 Sentinel",
-    "description": "Sentinel is a Big Data platform that analyzes crypto data in real time to automatically detect suspicious behavior using unsupervised machine learning.",
-    "stack": ["Python", "Java", "Apache Spark", "Kafka", "FastAPI", "Streamlit", "Scikit-learn", "Pandas", "NumPy",
-  "Plotly", "Parquet", "Maven", "JUnit 5", "Docker"],
-    "status": "active",
-    "link": "https://github.com/Xyness/Sentinel"
-  },
-  {
-    "name": "🔷 AlphaWatch",
-    "description": "AI-powered autonomous financial market intelligence agent.",
-    "stack": ["Next.js", "React", "TypeScript", "Tailwind CSS", "Python", "FastAPI", "SQLAlchemy", "PostgreSQL",
-  "LangGraph", "LangChain", "OpenAI", "Tavily", "APScheduler", "Recharts", "Docker"],
-    "status": "active",
-    "link": "https://github.com/Xyness/AlphaWatch"
-  },
-  {
-    "name": "🔷 Phantom",
-    "description": "A security reconnaissance and attack surface analysis framework combining a Rust async port scanner, Python recon modules, FastAPI backend, and Next.js dashboard.",
-    "stack": ["Rust", "Python", "TypeScript", "FastAPI", "Next.js", "Tailwind CSS", "Recharts", "PostgreSQL",
-  "SQLAlchemy", "Docker", "Tokio", "Pydantic"],
-    "status": "active",
-    "link": "https://github.com/Xyness/Phantom"
-  },
-  {
-    "name": "🔷 PaperChat",
-    "description": "PaperChat is a RAG-based chatbot that lets you ask questions and get answers from PDF documents using semantic search and LLMs.",
-    "stack": ["JavaScript", "Node.js", "SQL"],
-    "status": "maintained",
-    "link": "https://github.com/Xyness/PaperChat"
-  }
-]
-```
+<div align="center">
+<table>
+<tr>
+<td width="50%" align="center" valign="top">
+<br>
+<a href="https://github.com/Xyness/Archer">
+<img src="https://img.shields.io/badge/ARCHER-00FF41?style=for-the-badge&labelColor=000" alt="Archer" />
+</a>
+<br><br>
+<sub><b>Real-time face recognition with sci-fi HUD overlay</b></sub>
+<br><br>
+<img src="https://img.shields.io/badge/Python-000?style=flat-square&logo=python&logoColor=00FF41" />
+<img src="https://img.shields.io/badge/FastAPI-000?style=flat-square&logo=fastapi&logoColor=00FF41" />
+<img src="https://img.shields.io/badge/OpenCV-000?style=flat-square&logo=opencv&logoColor=00FF41" />
+<img src="https://img.shields.io/badge/ONNX-000?style=flat-square&logo=onnx&logoColor=00FF41" />
+<img src="https://img.shields.io/badge/SQLite-000?style=flat-square&logo=sqlite&logoColor=00FF41" />
+<img src="https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=javascript&logoColor=00FF41" />
+<br>
+<img src="https://img.shields.io/badge/●_active-00FF41?style=flat-square&labelColor=000" />
+<br><br>
+</td>
+<td width="50%" align="center" valign="top">
+<br>
+<a href="https://github.com/Xyness/Sentinel">
+<img src="https://img.shields.io/badge/SENTINEL-00FF41?style=for-the-badge&labelColor=000" alt="Sentinel" />
+</a>
+<br><br>
+<sub><b>Big Data crypto anomaly detection with unsupervised ML</b></sub>
+<br><br>
+<img src="https://img.shields.io/badge/Python-000?style=flat-square&logo=python&logoColor=00FF41" />
+<img src="https://img.shields.io/badge/Java-000?style=flat-square&logo=openjdk&logoColor=00FF41" />
+<img src="https://img.shields.io/badge/Spark-000?style=flat-square&logo=apachespark&logoColor=00FF41" />
+<img src="https://img.shields.io/badge/Kafka-000?style=flat-square&logo=apachekafka&logoColor=00FF41" />
+<img src="https://img.shields.io/badge/Docker-000?style=flat-square&logo=docker&logoColor=00FF41" />
+<img src="https://img.shields.io/badge/Scikit--learn-000?style=flat-square&logo=scikitlearn&logoColor=00FF41" />
+<br>
+<img src="https://img.shields.io/badge/●_active-00FF41?style=flat-square&labelColor=000" />
+<br><br>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+<br>
+<a href="https://github.com/Xyness/AlphaWatch">
+<img src="https://img.shields.io/badge/ALPHAWATCH-00FF41?style=for-the-badge&labelColor=000" alt="AlphaWatch" />
+</a>
+<br><br>
+<sub><b>AI-powered autonomous financial market intelligence agent</b></sub>
+<br><br>
+<img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=00FF41" />
+<img src="https://img.shields.io/badge/TypeScript-000?style=flat-square&logo=typescript&logoColor=00FF41" />
+<img src="https://img.shields.io/badge/Python-000?style=flat-square&logo=python&logoColor=00FF41" />
+<img src="https://img.shields.io/badge/FastAPI-000?style=flat-square&logo=fastapi&logoColor=00FF41" />
+<img src="https://img.shields.io/badge/PostgreSQL-000?style=flat-square&logo=postgresql&logoColor=00FF41" />
+<img src="https://img.shields.io/badge/LangChain-000?style=flat-square&logo=langchain&logoColor=00FF41" />
+<br>
+<img src="https://img.shields.io/badge/●_active-00FF41?style=flat-square&labelColor=000" />
+<br><br>
+</td>
+<td width="50%" align="center" valign="top">
+<br>
+<a href="https://github.com/Xyness/Phantom">
+<img src="https://img.shields.io/badge/PHANTOM-00FF41?style=for-the-badge&labelColor=000" alt="Phantom" />
+</a>
+<br><br>
+<sub><b>Security recon & attack surface analysis framework</b></sub>
+<br><br>
+<img src="https://img.shields.io/badge/Rust-000?style=flat-square&logo=rust&logoColor=00FF41" />
+<img src="https://img.shields.io/badge/Python-000?style=flat-square&logo=python&logoColor=00FF41" />
+<img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=00FF41" />
+<img src="https://img.shields.io/badge/FastAPI-000?style=flat-square&logo=fastapi&logoColor=00FF41" />
+<img src="https://img.shields.io/badge/PostgreSQL-000?style=flat-square&logo=postgresql&logoColor=00FF41" />
+<img src="https://img.shields.io/badge/Docker-000?style=flat-square&logo=docker&logoColor=00FF41" />
+<br>
+<img src="https://img.shields.io/badge/●_active-00FF41?style=flat-square&labelColor=000" />
+<br><br>
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center" valign="top">
+<br>
+<a href="https://github.com/Xyness/PaperChat">
+<img src="https://img.shields.io/badge/PAPERCHAT-00FF41?style=for-the-badge&labelColor=000" alt="PaperChat" />
+</a>
+<br><br>
+<sub><b>RAG-based chatbot — ask questions & get answers from PDF documents</b></sub>
+<br><br>
+<img src="https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=javascript&logoColor=00FF41" />
+<img src="https://img.shields.io/badge/Node.js-000?style=flat-square&logo=nodedotjs&logoColor=00FF41" />
+<img src="https://img.shields.io/badge/SQL-000?style=flat-square&logo=postgresql&logoColor=00FF41" />
+<br>
+<img src="https://img.shields.io/badge/●_maintained-00FF41?style=flat-square&labelColor=000" />
+<br><br>
+</td>
+</tr>
+</table>
+</div>
 
 > 📂 **[Browse all repositories →](https://github.com/Xyness?tab=repositories)**
 
