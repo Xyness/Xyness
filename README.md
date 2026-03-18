@@ -94,10 +94,18 @@ class Xyness:
   {
     "name": "🔷 AlphaWatch",
     "description": "AI-powered autonomous financial market intelligence agent.",
-    "stack": "stack": ["Next.js", "React", "TypeScript", "Tailwind CSS", "Python", "FastAPI", "SQLAlchemy", "PostgreSQL",
+    "stack": ["Next.js", "React", "TypeScript", "Tailwind CSS", "Python", "FastAPI", "SQLAlchemy", "PostgreSQL",
   "LangGraph", "LangChain", "OpenAI", "Tavily", "APScheduler", "Recharts", "Docker"],
     "status": "active",
     "link": "https://github.com/Xyness/AlphaWatch"
+  },
+  {
+    "name": "🔷 Phantom",
+    "description": "A security reconnaissance and attack surface analysis framework combining a Rust async port scanner, Python recon modules, FastAPI backend, and Next.js dashboard.",
+    "stack": ["Rust", "Python", "TypeScript", "FastAPI", "Next.js", "Tailwind CSS", "Recharts", "PostgreSQL",
+  "SQLAlchemy", "Docker", "Tokio", "Pydantic"],
+    "status": "active",
+    "link": "https://github.com/Xyness/Phantom"
   },
   {
     "name": "🔷 PaperChat",
