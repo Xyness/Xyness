@@ -20,7 +20,7 @@
 | **[![Nexus](https://img.shields.io/badge/Nexus-58A6FF?style=flat-square)](https://github.com/Xyness/Nexus)** | AI Market Intelligence Agent | Autonomous 5-node LangGraph pipeline for financial market monitoring & sentiment analysis |
 | **[![Phantom](https://img.shields.io/badge/Phantom-58A6FF?style=flat-square)](https://github.com/Xyness/Phantom)** | Security Recon Framework | Rust async scanner + Python recon modules + Next.js risk dashboard with weighted scoring |
 | **[![SysAudit](https://img.shields.io/badge/SysAudit-58A6FF?style=flat-square)](https://github.com/Xyness/SysAudit)** | Machine Security Audit | Automated Linux/macOS security scanner with CVE matching & HTML report generation |
-| **[![Archer](https://img.shields.io/badge/Archer-58A6FF?style=flat-square)](https://github.com/Xyness/Archer)** | Real-Time Face Recognition | Live webcam face detection via InsightFace with sci-fi HUD overlay |
+| **[![Archer](https://img.shields.io/badge/Archer-58A6FF?style=flat-square)](https://github.com/Xyness/Archer)** | Real-Time Face Recognition | Live webcam face detection via InsightFace |
 | **[![GitPulse](https://img.shields.io/badge/GitPulse-58A6FF?style=flat-square)](https://github.com/Xyness/GitPulse)** | GitHub Activity Visualizer | Constellation graphs, animated heatmaps, GitHub Wrapped & compare mode &nbsp; [![Live](https://img.shields.io/badge/demo-live-black?style=flat-square)](https://git-pulse-virid.vercel.app) |
 | **[![SCS](https://img.shields.io/badge/SimpleClaimSystem-58A6FF?style=flat-square)](https://github.com/Xyness/SimpleClaimSystem)** | Minecraft Plugin | Open-source chunk-based territory protection — Paper, Folia, Spigot (1.18+) |
 
