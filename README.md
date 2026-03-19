@@ -38,7 +38,7 @@ Real-time Big Data platform analyzing cryptocurrency market streams to automatic
 
 ---
 
-### [![AlphaWatch](https://img.shields.io/badge/ALPHAWATCH-AI_Market_Intelligence_Agent-0D1117?style=for-the-badge&logo=openai&logoColor=white&labelColor=58A6FF)](https://github.com/Xyness/AlphaWatch)
+### [![Nexus](https://img.shields.io/badge/NEXUS-AI_Market_Intelligence_Agent-0D1117?style=for-the-badge&logo=openai&logoColor=white&labelColor=58A6FF)](https://github.com/Xyness/Nexus)
 
 Autonomous AI agent that monitors financial markets, generates multi-source analysis reports, and detects market sentiment shifts in real time.
 
