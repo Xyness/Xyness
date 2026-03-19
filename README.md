@@ -62,6 +62,18 @@ Full-stack attack surface analysis framework combining a Rust async port scanner
 
 ---
 
+### [![SysAudit](https://img.shields.io/badge/SYSAUDIT-Automated_Machine_Security_Audit-0D1117?style=for-the-badge&logo=hackthebox&logoColor=9FEF00&labelColor=58A6FF)](https://github.com/Xyness/SysAudit)
+
+Automated security audit CLI for Linux and macOS — scans system configuration, network, authentication, file permissions, and known CVEs, then generates a standalone HTML report with risk scoring.
+
+> **Modules:** System (OS, kernel, services, SUID) · Network (ports, firewall, connections) · Auth (users, SSH, sudo, password policy) · Files (permissions, world-writable) · **CVE matching** via OSV.dev API.
+>
+> Standalone HTML report with animated score and severity filtering. Installable via `pip`.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Jinja2](https://img.shields.io/badge/Jinja2-B41717?style=flat-square&logo=jinja&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white) ![PyPI](https://img.shields.io/badge/PyPI-3775A9?style=flat-square&logo=pypi&logoColor=white)
+
+---
+
 ### [![Archer](https://img.shields.io/badge/ARCHER-Real--Time_Face_Recognition_System-0D1117?style=for-the-badge&logo=opencv&logoColor=5C3EE8&labelColor=58A6FF)](https://github.com/Xyness/Archer)
 
 Face recognition system with a sci-fi HUD overlay — detects and identifies faces from a live webcam feed in real time with a futuristic canvas-rendered interface.
