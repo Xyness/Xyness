@@ -39,12 +39,12 @@ for Minecraft servers. Paper, Folia and Spigot, 1.18+. Ended up on more servers 
 ### Stack
 
 ```
-Languages        Python · TypeScript · Rust · Java · SQL · R · Bash
-Backend          FastAPI · Node.js · SQLAlchemy
-Frontend         Next.js · React · Tailwind · D3.js
-Data & AI        LangChain · Spark · Kafka · Scikit-learn · OpenCV
-Infrastructure   Docker · PostgreSQL · Linux · Git · Vercel
-Security         AppSec · Server auditing · Recon
+Languages        Python, TypeScript, Rust, Java, SQL, R, Bash
+Backend          FastAPI, Node.js, SQLAlchemy
+Frontend         Next.js, React, Tailwind, D3.js
+Data & AI        LangChain, Spark, Kafka, Scikit-learn, OpenCV
+Infrastructure   Docker, PostgreSQL, Linux, Git, Vercel
+Security         AppSec, Server auditing, Recon
 ```
 
 Minecraft plugins are the side I keep coming back to. There's a longer list of those on
@@ -60,6 +60,6 @@ Minecraft plugins are the side I keep coming back to. There's a longer list of t
 
 If you're building something and want to talk about it, my inbox is open.
 
-<sub>FR · EN · ES</sub>
+<sub>FR / EN / ES</sub>
 
 </div>
