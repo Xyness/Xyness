@@ -12,28 +12,28 @@ CS, big data and AI student. Most of this exists because I wanted the thing to e
 
 ### Projects
 
-**[Sentinel](https://github.com/Xyness/Sentinel)** — Streaming anomaly detection on crypto
+**[Sentinel](https://github.com/Xyness/Sentinel)** does streaming anomaly detection on crypto
 markets. Kafka into Spark into an Isolation Forest, with a Streamlit dashboard on the end.
 Started as a big data course project and kept going.
 
-**[Phantom](https://github.com/Xyness/Phantom)** — Attack surface analyzer. Rust does the port
+**[Phantom](https://github.com/Xyness/Phantom)** is an attack surface analyzer. Rust does the port
 scanning, Python does the recon, FastAPI orchestrates, Next.js shows you the damage.
 
-**[Nexus](https://github.com/Xyness/Nexus)** — Reads crypto and finance news as it lands, has a
+**[Nexus](https://github.com/Xyness/Nexus)** reads crypto and finance news as it lands, has a
 model score it, and messages me on Telegram when something actually matters.
 
-**[SysAudit](https://github.com/Xyness/SysAudit)** — Security audit for Linux and macOS. Spits
-out one self-contained HTML report you can read offline. Written because I got tired of running
+**[SysAudit](https://github.com/Xyness/SysAudit)** audits a Linux or macOS box and spits out
+one self-contained HTML report you can read offline. Written because I got tired of running
 the same checks by hand.
 
-**[GitPulse](https://github.com/Xyness/GitPulse)** — Turns a GitHub profile into constellation
+**[GitPulse](https://github.com/Xyness/GitPulse)** turns a GitHub profile into constellation
 graphs and heatmaps, plus a year-in-review you can share.
 [![Live](https://img.shields.io/badge/demo-live-black?style=flat-square)](https://git-pulse-virid.vercel.app)
 
-**[Archer](https://github.com/Xyness/Archer)** — Real-time face recognition off a webcam, with a
+**[Archer](https://github.com/Xyness/Archer)** does real-time face recognition off a webcam, with a
 HUD overlay because I thought it would look good. InsightFace does the actual work.
 
-**[SimpleClaimSystem](https://github.com/Xyness/SimpleClaimSystem)** — Chunk-based land claiming
+**[SimpleClaimSystem](https://github.com/Xyness/SimpleClaimSystem)** is chunk-based land claiming
 for Minecraft servers. Paper, Folia and Spigot, 1.18+. Ended up on more servers than I expected.
 
 ### Stack
@@ -47,7 +47,7 @@ Infrastructure   Docker · PostgreSQL · Linux · Git · Vercel
 Security         AppSec · Server auditing · Recon
 ```
 
-Minecraft plugins are the side I keep coming back to — there's a longer list of those on
+Minecraft plugins are the side I keep coming back to. There's a longer list of those on
 [the site](https://xyness.github.io/).
 
 <div align="center">
