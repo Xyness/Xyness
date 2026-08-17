@@ -2,7 +2,7 @@
 
 # Xyness
 
-**CS, Big Data & AI** — building production-grade tools from architecture to deployment.
+CS, big data and AI student. Most of this exists because I wanted the thing to exist.
 
 [![Portfolio](https://img.shields.io/badge/xyness.github.io-000?style=flat-square&logo=safari&logoColor=white)](https://xyness.github.io/)
 &nbsp;
@@ -10,21 +10,31 @@
 
 </div>
 
----
-
 ### Projects
 
-| | Project | Description |
-|---|---|---|
-| **[![Sentinel](https://img.shields.io/badge/Sentinel-58A6FF?style=flat-square)](https://github.com/Xyness/Sentinel)** | Big Data Anomaly Detection | Real-time crypto market analysis with Kafka, Spark Streaming, Isolation Forest & Streamlit dashboard |
-| **[![Nexus](https://img.shields.io/badge/Nexus-58A6FF?style=flat-square)](https://github.com/Xyness/Nexus)** | AI Market Intelligence Agent | Autonomous 5-node LangGraph pipeline for financial market monitoring & sentiment analysis |
-| **[![Phantom](https://img.shields.io/badge/Phantom-58A6FF?style=flat-square)](https://github.com/Xyness/Phantom)** | Security Recon Framework | Rust async scanner + Python recon modules + Next.js risk dashboard with weighted scoring |
-| **[![SysAudit](https://img.shields.io/badge/SysAudit-58A6FF?style=flat-square)](https://github.com/Xyness/SysAudit)** | Machine Security Audit | Automated Linux/macOS security scanner with CVE matching & HTML report generation |
-| **[![Archer](https://img.shields.io/badge/Archer-58A6FF?style=flat-square)](https://github.com/Xyness/Archer)** | Real-Time Face Recognition | Live webcam face detection via InsightFace |
-| **[![GitPulse](https://img.shields.io/badge/GitPulse-58A6FF?style=flat-square)](https://github.com/Xyness/GitPulse)** | GitHub Activity Visualizer | Constellation graphs, animated heatmaps, GitHub Wrapped & compare mode &nbsp; [![Live](https://img.shields.io/badge/demo-live-black?style=flat-square)](https://git-pulse-virid.vercel.app) |
-| **[![SCS](https://img.shields.io/badge/SimpleClaimSystem-58A6FF?style=flat-square)](https://github.com/Xyness/SimpleClaimSystem)** | Minecraft Plugin | Open-source chunk-based territory protection — Paper, Folia, Spigot (1.18+) |
+**[Sentinel](https://github.com/Xyness/Sentinel)** — Streaming anomaly detection on crypto
+markets. Kafka into Spark into an Isolation Forest, with a Streamlit dashboard on the end.
+Started as a big data course project and kept going.
 
----
+**[Phantom](https://github.com/Xyness/Phantom)** — Attack surface analyzer. Rust does the port
+scanning, Python does the recon, FastAPI orchestrates, Next.js shows you the damage.
+
+**[Nexus](https://github.com/Xyness/Nexus)** — Reads crypto and finance news as it lands, has a
+model score it, and messages me on Telegram when something actually matters.
+
+**[SysAudit](https://github.com/Xyness/SysAudit)** — Security audit for Linux and macOS. Spits
+out one self-contained HTML report you can read offline. Written because I got tired of running
+the same checks by hand.
+
+**[GitPulse](https://github.com/Xyness/GitPulse)** — Turns a GitHub profile into constellation
+graphs and heatmaps, plus a year-in-review you can share.
+[![Live](https://img.shields.io/badge/demo-live-black?style=flat-square)](https://git-pulse-virid.vercel.app)
+
+**[Archer](https://github.com/Xyness/Archer)** — Real-time face recognition off a webcam, with a
+HUD overlay because I thought it would look good. InsightFace does the actual work.
+
+**[SimpleClaimSystem](https://github.com/Xyness/SimpleClaimSystem)** — Chunk-based land claiming
+for Minecraft servers. Paper, Folia and Spigot, 1.18+. Ended up on more servers than I expected.
 
 ### Stack
 
@@ -34,10 +44,11 @@ Backend          FastAPI · Node.js · SQLAlchemy
 Frontend         Next.js · React · Tailwind · D3.js
 Data & AI        LangChain · Spark · Kafka · Scikit-learn · OpenCV
 Infrastructure   Docker · PostgreSQL · Linux · Git · Vercel
-Security         AppSec · Server Auditing · Recon
+Security         AppSec · Server auditing · Recon
 ```
 
----
+Minecraft plugins are the side I keep coming back to — there's a longer list of those on
+[the site](https://xyness.github.io/).
 
 <div align="center">
 
@@ -47,8 +58,8 @@ Security         AppSec · Server Auditing · Recon
 
 <br/><br/>
 
-**Open to interesting projects & collaborations**
+If you're building something and want to talk about it, my inbox is open.
 
-<sub>FR 🇫🇷 · EN 🇬🇧 · ES 🇪🇸</sub>
+<sub>FR · EN · ES</sub>
 
 </div>
